@@ -1,0 +1,272 @@
+{
+  "data": {
+    "employees": [
+      {
+        "userId": "1001",
+        "name": "Ayush",
+        "department": "Software",
+        "role": "Devloper",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1002",
+        "name": "Akash",
+        "department": "Software",
+        "role": "Designer",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1003",
+        "name": "Veeresh",
+        "department": "Software",
+        "role": "Tester",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1004",
+        "name": "Ravi",
+        "department": "Software",
+        "role": "Developer",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1005",
+        "name": "Preetam",
+        "department": "Software",
+        "role": "Tester",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1006",
+        "name": "Prem",
+        "department": "Software",
+        "role": "Developer",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1007",
+        "name": "Durga",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1008",
+        "name": "Avishek",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1009",
+        "name": "Akhil",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1010",
+        "name": "Nikhil",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1011",
+        "name": "Nilash",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1001",
+        "name": "Sahid",
+        "department": "Software",
+        "role": "Devloper",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1002",
+        "name": "Avinash",
+        "department": "Software",
+        "role": "Designer",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1003",
+        "name": "Sujal",
+        "department": "Software",
+        "role": "Tester",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1004",
+        "name": "Ujjal",
+        "department": "Software",
+        "role": "Developer",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1005",
+        "name": "Prakash",
+        "department": "Software",
+        "role": "Tester",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1006",
+        "name": "Manish",
+        "department": "Software",
+        "role": "Developer",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1007",
+        "name": "Nitesh",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1008",
+        "name": "Rahul",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1009",
+        "name": "Ashok",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1010",
+        "name": "Aalok",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1011",
+        "name": "Pintu",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1001",
+        "name": "Jatin",
+        "department": "Software",
+        "role": "Devloper",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1002",
+        "name": "Somnath",
+        "department": "Software",
+        "role": "Designer",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1003",
+        "name": "Suresh",
+        "department": "Software",
+        "role": "Tester",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1004",
+        "name": "Sanju",
+        "department": "Software",
+        "role": "Developer",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1005",
+        "name": "Sonu",
+        "department": "Software",
+        "role": "Tester",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1006",
+        "name": "Manu",
+        "department": "Software",
+        "role": "Developer",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1007",
+        "name": "Sankar",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1008",
+        "name": "Shiv",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1009",
+        "name": "Chandan",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1010",
+        "name": "Vikash",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }, {
+        "userId": "1011",
+        "name": "Rohit",
+        "department": "Software",
+        "role": "A",
+        "designation": "Male",
+        "salary": "600"
+
+      }
+
+    ]
+  }
+}
